@@ -1,0 +1,529 @@
+{{SummonEntry| Atlasdam                    | Guard                          |  7 | Physical Boost         |           |  6 }}
+{{SummonEntry| Atlasdam Palace             | Guard                          |  8 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Atlasdam Palace             | Landscape Artist               |  2 | Brush Toss             | Daggers   |  9 }}
+{{SummonEntry| Atlasdam Palace             | Art Lover                      |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Atlasdam Palace             | Guard                          |  7 | Defensive Posture      |           |  6 }}
+{{SummonEntry| Atlasdam Palace Gates       | Guard                          |  5 | Sweeping Slash         | Swords    |  7 }}
+{{SummonEntry| Atlasdam Palace Gates       | Handsome Minstrel              |  3 | Slash                  | Daggers   |  8 }}
+{{SummonEntry| Atlasdam Palace Gates       | Know-it-all Milo               |  5 | Sleepweed              |           |  7 }}
+{{SummonEntry| Atlasdam Palace Gates       | Elderly Woman                  |  3 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Atlasdam Palace Gates       | Merchant                       |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Atlasdam Palace Gates       | Guardsman                      |  5 | Blinding Arrow         | Bows      |  7 }}
+{{SummonEntry| Atlasdam Palace Gates       | Guardsman                      |  5 | Blinding Arrow         | Bows      |  7 }}
+{{SummonEntry| Atlasdam Palace Gates       | Enthusiastic Youth             |  3 | High Thrust            | Swords    |  8 }}
+{{SummonEntry| Atlasdam Palace Gates       | Guard                          |  6 | Pointed Shot           | Bows      |  7 }}
+{{SummonEntry| Atlasdam                    | Shifty Moneylender             |  4 | Extort                 |           |  8 }}
+{{SummonEntry| Atlasdam                    | Apothecary                     |  2 | Mental Augmentation    |           |  9 }}
+{{SummonEntry| Atlasdam                    | Tavern Patron                  | 10 | Peerless Strike        | Polearms  |  4 }}
+{{SummonEntry| Atlasdam                    | Tavern Patron                  |  4 | Befuddling Dust        |           |  8 }}
+{{SummonEntry| Atlasdam                    | Crest-bearing Drunk            |  6 | Poison                 |           |  7 }}
+{{SummonEntry| Atlasdam                    | Obstinate Merchant             |  4 | Physical Boost         |           |  8 }}
+{{SummonEntry| Atlasdam                    | Townsperson                    |  2 | Healing Grape (M)      |           |  9 }}
+{{SummonEntry| Atlasdam                    | Guard                          |  4 | Defensive Posture      |           |  9 }}
+{{SummonEntry| Atlasdam                    | Dan                            |  3 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Atlasdam                    | Slender Farmer                 |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Atlasdam                    | Youth's Mother                 |  2 | Full Swing             | Axes      |  9 }}
+{{SummonEntry| Atlasdam                    | Capable Culinarian             |  4 | Flambé                 | Fire      |  8 }}
+{{SummonEntry| Atlasdam                    | Erstwhile Retainer             |  2 | Inspiriting Plum       |           |  9 }}
+{{SummonEntry| Atlasdam                    | Calm Woman                     |  2 | Flurry                 | Bows      |  9 }}
+{{SummonEntry| Atlasdam                    | Shifty Moneylender             |  4 | Extort                 |           |  8 }}
+{{SummonEntry| Atlasdam                    | Theracio                       |  3 | Wisdom of the Church   |           |  8 }}
+{{SummonEntry| Atlasdam Royal Library      | Astute Offical                 |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Atlasdam Royal Library      | Mercedes                       |  3 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Atlasdam Palace Gates       | Passionate Reader              |  2 | Tome Tempest           |           |  9 }}
+{{SummonEntry| Atlasdam                    | Paul                           |  5 | Lightning Storm        | Lightning |  7 }}
+{{SummonEntry| The Whistlewood             | Gustav, the Black Knight       |  7 | Cross Strike           | Swords    |  6 }}
+{{SummonEntry| Bolderfall                  | Enlightened Aristocrat         |  3 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Bolderfall                  | Stern Guardsman                |  5 | Sweep                  | Swords    |  7 }}
+{{SummonEntry| Bolderfall                  | Townsperson                    |  2 | Fireball               | Fire      |  9 }}
+{{SummonEntry| Bolderfall                  | Genteel Madam                  |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Bolderfall                  | Industrious Husband            |  3 | Thrash                 | Polearms  |  8 }}
+{{SummonEntry| Bolderfall                  | Merchant                       |  3 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Bolderfall                  | Proud Collector                |  3 | Slumber Slash          | Daggers   |  8 }}
+{{SummonEntry| Bolderfall                  | Elderly Woman                  |  1 | Inspiriting Plum       |           |  9 }}
+{{SummonEntry| Bolderfall                  | Merchant                       |  2 | Improved Offense       |           |  9 }}
+{{SummonEntry| Bolderfall                  | Beastmaster                    |  3 | Thrash                 | Polearms  |  8 }}
+{{SummonEntry| Bolderfall                  | Townsperson                    |  3 | Slow Motion            |           |  8 }}
+{{SummonEntry| Ravus Manor Gate            | Guard                          |  6 | Panic Arrow            | Bows      |  7 }}
+{{SummonEntry| Ravus Manor Gate            | Heathcote                      |  6 | Double Spear           | Swords    |  7 }}
+{{SummonEntry| Ravus Manor Gate            | Guard                          |  7 | High Thrust            | Swords    |  6 }}
+{{SummonEntry| Ravus Manor Gate            | Guard                          |  7 | Stunning Strike        | Swords    |  6 }}
+{{SummonEntry| Ravus Manor Gate            | Guard Captain                  |  9 | Guillotine             | Swords    |  5 }}
+{{SummonEntry| Ravus Manor Gate            | Guard                          |  5 | Blinding Slash         | Daggers   |  7 }}
+{{SummonEntry| Ravus Manor Gate            | Guard                          |  6 | Sweeping Slash         | Swords    |  7 }}
+{{SummonEntry| Lower Bolderfall            | Wallace Wildsword              |  4 | Sweeping Slash         | Swords    |  8 }}
+{{SummonEntry| Lower Bolderfall            | Pauper Revolutionary           |  4 | Inhibit Offense        |           |  8 }}
+{{SummonEntry| Lower Bolderfall            | Omar                           |  7 | Overhead Swing         | Axes      |  6 }}
+{{SummonEntry| Lower Bolderfall            | Morlock                        |  4 | Lightning Storm        | Lightning |  8 }}
+{{SummonEntry| Lower Bolderfall            | Townsperson                    | 10 | Guillotine             | Swords    |  4 }}
+{{SummonEntry| Lower Bolderfall            | Pauper                         |  4 | Healing Grape          |           |  8 }}
+{{SummonEntry| Lower Bolderfall            | Veteran Brigand                |  3 | Poison Slash           | Daggers   |  8 }}
+{{SummonEntry| Lower Bolderfall            | Fledgling Bandit               |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Clearbrook                  | Magg the Cook                  |  6 | Well Done              | Fire      |  7 }}
+{{SummonEntry| Clearbrook                  | Regular Patron                 |  2 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| Clearbrook                  | Meryl's Father                 |  1 | Sweep                  | Swords    |  9 }}
+{{SummonEntry| Clearbrook                  | Meryl                          |  3 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| Clearbrook                  | Elderly Woman                  | 10 | Mighty Blow            | Staves    |  4 }}
+{{SummonEntry| Clearbrook                  | Zeph                           |  4 | Concoct Poison         |           |  8 }}
+{{SummonEntry| Clearbrook                  | Gertas                         |  2 | Poison                 |           |  9 }}
+{{SummonEntry| Clearbrook                  | Townsperson                    |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Clearbrook                  | Mercedes                       |  3 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Clearbrook                  | Angler                         |  5 | Peerless Strike        | Polearms  |  7 }}
+{{SummonEntry| Clearbrook                  | Meryl's Mother                 |  3 | Physical Boost         |           |  8 }}
+{{SummonEntry| Clearbrook                  | Professor Bastete              |  5 | Wisdom of the Church   |           |  7 }}
+{{SummonEntry| Clearbrook                  | Scholar                        |  2 | Sweep                  | Swords    |  9 }}
+{{SummonEntry| Clearbrook                  | Garrulous Grandfather          |  4 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Clearbrook                  | Zeph                           |  4 | Concoct Poison         |           |  8 }}
+{{SummonEntry| West Clearbrook Traverse    | Friendly Farmer                |  1 | Shatter and Smash      | Axes      |  9 }}
+{{SummonEntry| West Clearbrook Traverse    | Fishmonger                     |  3 | Slice                  | Swords    |  8 }}
+{{SummonEntry| South Clearbrook Traverse   | Lost Grandfather               |  4 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Cobbleston                  | Watchman                       |  1 | Sweeping Slash         | Swords    |  9 }}
+{{SummonEntry| Cobbleston                  | Villager                       |  4 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| Cobbleston                  | Melancholy Youth               |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Cobbleston                  | Noelle                         |  1 | Improved Offense       |           |  9 }}
+{{SummonEntry| Cobbleston                  | Courageous Cowherd             |  3 | Manure Toss            | Axes      |  8 }}
+{{SummonEntry| Cobbleston                  | Villager                       |  2 | Steel Defenses         |           |  9 }}
+{{SummonEntry| Cobbleston                  | Philip's Mother                |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Cobbleston                  | Watchman                       |  1 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Cobbleston                  | Villager                       |  6 | Slumber Arrow          | Bows      |  7 }}
+{{SummonEntry| Cobbleston                  | Kindly Farmer                  |  3 | Healing Grape          |           |  8 }}
+{{SummonEntry| Cobbleston                  | Cheerful Storyteller           |  3 | Pummel                 | Staves    |  8 }}
+{{SummonEntry| Cobbleston                  | Gaston                         |  5 | Mighty Blow            | Swords    |  7 }}
+{{SummonEntry| Duskbarrow                  | Ashlan's Father                |  4 | Full Swing             | Axes      |  8 }}
+{{SummonEntry| Duskbarrow                  | Ashlan                         |  3 | Blinding Arrow         | Bows      |  8 }}
+{{SummonEntry| Duskbarrow                  | Crest-bearing Swindler         |  6 | Crush and Grind        | Axes      |  7 }}
+{{SummonEntry| Duskbarrow                  | Elderly Woman                  |  6 | Ignis Ardere           | Fire      |  7 }}
+{{SummonEntry| Duskbarrow                  | Fearful Mother                 |  3 | Sweeping Slash         | Swords    |  8 }}
+{{SummonEntry| Duskbarrow                  | Village Headman                |  7 | Inhibit Defense        |           |  6 }}
+{{SummonEntry| Duskbarrow                  | Smirking Townsperson           |  3 | Improved Offense       |           |  8 }}
+{{SummonEntry| Duskbarrow                  | Obliging Merchant              |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Everhold Amphitheatre       | Usher                          |  6 | Blinding Slah          | Daggers   |  7 }}
+{{SummonEntry| Everhold Amphitheatre       | Usher                          |  6 | Slow Motion            |           |  7 }}
+{{SummonEntry| Everhold Amphitheatre       | Theater Manager                |  2 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Everhold                    | Usher                          |  6 | Thrash                 | Polearms  |  7 }}
+{{SummonEntry| Everhold                    | Noelle                         |  1 | Improved Offense       |           |  9 }}
+{{SummonEntry| Everhold                    | Impresario                     |  7 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Everhold                    | Townsperson                    |  8 | Improved Offense       |           |  6 }}
+{{SummonEntry| Everhold                    | Townsperson                    |  7 | Poison Arrow           | Bows      |  6 }}
+{{SummonEntry| Everhold                    | Stage Carpenter                |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Everhold                    | Townsperson                    |  2 | Fireball               | Fire      |  9 }}
+{{SummonEntry| Everhold                    | Ardent Actor                   |  5 | Offense Down           |           |  7 }}
+{{SummonEntry| Everhold                    | Usher                          |  7 | Steel Defenses         |           |  6 }}
+{{SummonEntry| Everhold                    | Usher                          |  7 | Mental Degradation     |           |  6 }}
+{{SummonEntry| Flamesgrace Cathedral       | Cleric                         |  4 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Flamesgrace Cathedral       | Lianna                         |  3 | Restore Health         |           |  8 }}
+{{SummonEntry| Flamesgrace Cathedral       | Mother                         |  1 | Inhibit Defense        |           |  9 }}
+{{SummonEntry| Flamesgrace Cathedral       | Cleric                         |  1 | Prayer                 |           |  9 }}
+{{SummonEntry| Flamesgrace Cathedral       | Cleric                         |  1 | Ice Storm              | Ice       |  9 }}
+{{SummonEntry| Flamesgrace Cathedral       | Knight Ardante                 |  5 | Blinding Arrow         | Bows      |  7 }}
+{{SummonEntry| Flamesgrace Cathedral       | Townsperson                    |  1 | Sweeping Slash         | Swords    |  9 }}
+{{SummonEntry| Flamesgrace Cathedral       | Townsperson                    |  1 | Restore Health         |           |  9 }}
+{{SummonEntry| Flamesgrace                 | Muttering Codger               | 10 | Crush and Grind        | Axes      |  4 }}
+{{SummonEntry| Flamesgrace                 | Anxious Townswoman             |  1 | Slumber Slash          | Daggers   |  9 }}
+{{SummonEntry| Flamesgrace                 | Drunken Soilder                |  5 | Noisome Breath         |           |  7 }}
+{{SummonEntry| Flamesgrace                 | Diligent Student               |  1 | Ice Storm              | Ice       |  9 }}
+{{SummonEntry| Flamesgrace                 | Tavern Patron                  |  1 | Summon Winds           | Wind      |  9 }}
+{{SummonEntry| Flamesgrace                 | Cleric                         |  1 | Steel Defenses         |           |  9 }}
+{{SummonEntry| Flamesgrace                 | Townsperson                    |  1 | Flurry                 | Bows      |  9 }}
+{{SummonEntry| Flamesgrace                 | Miles                          |  4 | Improved Offense       |           |  8 }}
+{{SummonEntry| Flamesgrace                 | Merchant                       |  1 | Sleepweed              |           |  9 }}
+{{SummonEntry| Flamesgrace                 | Witness                        |  1 | Healing Grape          |           |  9 }}
+{{SummonEntry| Flamesgrace                 | Knight Ardante                 |  3 | Sweep                  | Swords    |  8 }}
+{{SummonEntry| Flamesgrace                 | Townsperson                    |  1 | Wisdom of the Church   |           |  9 }}
+{{SummonEntry| Flamesgrace                 | Shivering Townsperson          |  1 | Panic Arrow            | Bows      |  9 }}
+{{SummonEntry| Path to the Caves of Origin | Knight Ardante                 |  1 | Repeated Strike        | Swords    |  9 }}
+{{SummonEntry| Path to the Caves of Origin | Knight Ardante                 |  1 | Prayer                 |           |  9 }}
+{{SummonEntry| Captain's Bane              | Leviathan Hunter               |  9 | Inhibit Defense        |           |  5 }}
+{{SummonEntry| Goldshore Manor District    | Townsperson                    |  1 | Cure Poison            |           |  9 }}
+{{SummonEntry| Goldshore Manor District    | Knight Ardante                 |  6 | Brain Bash             | Axes      |  7 }}
+{{SummonEntry| Goldshore Manor District    | Drevon                         |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Goldshore Manor District    | Aristocrat                     |  2 | Awaken                 |           |  9 }}
+{{SummonEntry| Goldshore Manor District    | Aristocrat                     |  4 | Lightning Storm        | Lightning |  8 }}
+{{SummonEntry| Goldshore Manor District    | Unsavory Man                   |  5 | Shady Substance        |           |  7 }}
+{{SummonEntry| Goldshore Manor District    | Old Man                        |  9 | Peerless Strike        | Polearms  |  5 }}
+{{SummonEntry| Goldshore Manor District    | Merchantry Master              |  4 | Slumber Slash          | Daggers   |  8 }}
+{{SummonEntry| Goldshore Manor District    | Erudite Graybeard              |  1 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Goldshore Manor District    | Stonemonger                    |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Goldshore Manor District    | Townsperson                    |  5 | Attacking Posture      |           |  7 }}
+{{SummonEntry| Goldshore Manor District    | Fledgling Fisherman            |  4 | Befuddling Dust        |           |  8 }}
+{{SummonEntry| Goldshore Cathedral         | Cleric                         |  5 | Deep Breath            |           |  7 }}
+{{SummonEntry| Goldshore Cathedral         | Cleric                         |  1 | Prayer                 |           |  9 }}
+{{SummonEntry| Goldshore                   | Elderly Woman                  |  5 | Blinding Arrow         | Bows      |  7 }}
+{{SummonEntry| Goldshore                   | Marlene                        |  3 | Dump Flour             |           |  8 }}
+{{SummonEntry| Goldshore                   | Old Man                        |  3 | Inhibit Offense        |           |  8 }}
+{{SummonEntry| Goldshore                   | Fisherman's Sweetheart         |  1 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Goldshore                   | Troubled Merchant              |  3 | Panacea                |           |  8 }}
+{{SummonEntry| Goldshore                   | Townsperson                    |  2 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| Goldshore                   | Crest-bearing Ruffian          |  6 | Crush and Grind        | Axes      |  7 }}
+{{SummonEntry| Goldshore                   | Sailor                         |  4 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| Goldshore                   | Ship Captain                   |  6 | Improved Offense       |           |  6 }}
+{{SummonEntry| West Grandport Coast        | Best-selling Author            |  4 | Exploit Weakness       | Daggers   |  8 }}
+{{SummonEntry| Grandport Bazaar            | Barker                         |  3 | Critical Eye           |           |  8 }}
+{{SummonEntry| Grandport Bazaar            | Merchant                       |  3 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| Grandport Bazaar            | Aristocrat                     |  2 | Inhibit Offense        |           |  9 }}
+{{SummonEntry| Grandport Bazaar            | Guard                          |  9 | Attacking Posture      |           |  5 }}
+{{SummonEntry| Grandport Bazaar            | Merchant                       |  7 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Grandport Markets           | Aston Wyndham                  |  6 | Fire Storm             | Fire      |  7 }}
+{{SummonEntry| Grandport Markets           | Gill the Butler                |  9 | Double Spear           | Swords    |  5 }}
+{{SummonEntry| Grandport Markets           | Ing The Diarist                |  3 | Hurl Diary             |           |  8 }}
+{{SummonEntry| Grandport Markets           | Creepy Antiquarian             |  6 | Inhibit Offense        |           |  7 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  5 | Panic Arrow            | Bows      |  7 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  9 | Glacies Claudere       | Ice       |  6 }}
+{{SummonEntry| Grandport Markets           | Master Jeweler                 |  4 | Defense Down           |           |  8 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  5 | Poison                 |           |  7 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  3 | Sweeping Slash         | Swords    |  8 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  5 | Physical Degradation   |           |  7 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  6 | Tonitrus Canere        | Lightning |  7 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  6 | Full Swing             | Axes      |  7 }}
+{{SummonEntry| Grandport Markets           | Woman from Quaragosa           |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Grandport Markets           | Lara                           |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  8 | Steel Defenses         |           |  6 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  4 | Cure Silence           |           |  8 }}
+{{SummonEntry| Grandport Markets           | Bazaar Shopper                 |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  4 | Physical Boost         |           |  8 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  4 | Full Recover           |           |  8 }}
+{{SummonEntry| Grandport Markets           | Merchant                       |  2 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| Grandport Markets           | Wharf Thug                     |  7 | Brain Bash             | Axes      |  6 }}
+{{SummonEntry| Grandport Markets           | Ship Captain                   |  7 | Brain Bash             | Axes      |  6 }}
+{{SummonEntry| Grandport                   | Townsperson                    |  5 | Inhibit Defense        |           |  7 }}
+{{SummonEntry| Grandport                   | Merchant                       |  3 | Befuddling Balm        |           |  8 }}
+{{SummonEntry| Grandport                   | Elderly Woman                  |  3 | Lightning Storm        |           |  8 }}
+{{SummonEntry| Grandport                   | Townsperson                    |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Grandport                   | Merry Drunkard                 |  3 | Full Swing             | Axes      |  8 }}
+{{SummonEntry| Grandport                   | Merchant                       |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Grandport                   | Cleric                         |  6 | Exploit Weakness       | Polearms  |  7 }}
+{{SummonEntry| Grandport                   | Merchant                       |  5 | Brain Bash             | Axes      |  7 }}
+{{SummonEntry| Grandport                   | Townsperson                    |  5 | Steel Defenses         |           |  7 }}
+{{SummonEntry| Grandport                   | Merchant                       |  4 | Sleepweed              |           |  8 }}
+{{SummonEntry| Grandport                   | Bookworm Girl                  |  2 | Tome Tempest           |           |  9 }}
+{{SummonEntry| Grandport                   | Passionate Peddler             |  3 | Poison                 |           |  8 }}
+{{SummonEntry| Grandport                   | Bombastic Boy                  |  3 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| Grandport                   | Tavern Wench                   |  2 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| Marsalim Palace             | King Khalim                    |  5 | Mental Augmentation    |           |  7 }}
+{{SummonEntry| Marsalim Palace             | Theater Manager                |  2 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Marsalim Palace             | Minister                       |  3 | Mental Degradation     |           |  8 }}
+{{SummonEntry| Marsalim Palace             | Guard                          |  6 | Inhibit Offense        |           |  7 }}
+{{SummonEntry| Marsalim Palace             | Guard                          |  7 | Brain Bash             | Axes      |  6 }}
+{{SummonEntry| Marsalim Palace             | Kindly Knight                  |  8 | Attacking Posture      |           |  6 }}
+{{SummonEntry| Marsalim Palace             | Guard                          |  7 | Thrash                 | Polearms  |  6 }}
+{{SummonEntry| Marsalim Palace             | Guard                          |  5 | Defensive Posture      |           |  7 }}
+{{SummonEntry| Marsalim Palace             | Captain Raaf                   |  5 | Whirlwind Strike       | Polearms  |  7 }}
+{{SummonEntry| Marsalim Palace             | General Lenaar                 |  8 | Baleful Blade          | Swords    |  6 }}
+{{SummonEntry| Marsalim                    | Scholarly Youth                |  2 | Icewind                | Ice       |  9 }}
+{{SummonEntry| Marsalim                    | Knight Ardante                 |  7 | Attacking Posture      |           |  6 }}
+{{SummonEntry| Marsalim                    | Elderly Woman                  |  6 | Glacies Claudere       | Ice       |  7 }}
+{{SummonEntry| Marsalim                    | Gloria                         |  2 | Steel Defenses         |           |  9 }}
+{{SummonEntry| Marsalim                    | Townsperson                    |  9 | Physical Boost         |           |  5 }}
+{{SummonEntry| Marsalim                    | Old Man                        |  6 | Ventus Saltare         | Wind      |  7 }}
+{{SummonEntry| Marsalim                    | Knight Ardante                 |  6 | Inhibit Defense        |           |  7 }}
+{{SummonEntry| Marsalim                    | Knight's Wife                  |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Marsalim                    | Young Soldier                  |  6 | Thrash                 | Polearms  |  7 }}
+{{SummonEntry| Marsalim                    | Swordsman Yuri                 | 10 | Stunning Strike        | Swords    |  4 }}
+{{SummonEntry| Marsalim                    | Old Aristocrat                 |  1 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Marsalim                    | Grieg the Unbreakable          |  5 | Steel Defenses         |           |  7 }}
+{{SummonEntry| Marsalim                    | Townsperson                    |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Marsalim                    | Maruf                          |  7 | Full Enfeeblement      |           |  6 }}
+{{SummonEntry| Marsalim                    | Know-it-all Father             |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Marsalim                    | Townsperson                    |  1 | Slice                  | Swords    |  9 }}
+{{SummonEntry| East Noblecourt             | Awkward Boy                    |  3 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Noblecourt                  | Gatekeeper                     |  6 | Improved Offense       |           |  7 }}
+{{SummonEntry| Noblecourt                  | Gatekeeper                     |  6 | Steel Defenses         |           |  7 }}
+{{SummonEntry| Noblecourt                  | Old Man                        |  1 | Mighty Blow            | Staves    |  9 }}
+{{SummonEntry| Noblecourt                  | Townsperson                    |  3 | Pointed Shot           | Bows      |  8 }}
+{{SummonEntry| Noblecourt                  | Definitely Not Leon            |  5 | Speed Enhancement      |           |  7 }}
+{{SummonEntry| Noblecourt                  | Townsperson                    |  3 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Noblecourt                  | Townsperson                    |  4 | Cure Blindness         |           |  8 }}
+{{SummonEntry| Noblecourt                  | Affable Antiquarian            |  2 | Cure Silence           |           |  9 }}
+{{SummonEntry| Noblecourt                  | Townsperson                    |  7 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Noblecourt                  | Accomplished Graybeard         |  5 | Posion                 |           |  7 }}
+{{SummonEntry| Noblecourt                  | Barham                         |  6 | Tonitrus Canere        | Lightning |  7 }}
+{{SummonEntry| Noblecourt                  | Orlick                         |  6 | Ignis Ardere           | Fire      |  7 }}
+{{SummonEntry| Noblecourt                  | Mikk                           |  5 | Physical Boost         |           |  7 }}
+{{SummonEntry| Noblecourt                  | Makk                           |  5 | Physical Degradation   |           |  7 }}
+{{SummonEntry| East Noblecourt             | Junk Collector                 |  2 | Poison Slash           | Daggers   |  9 }}
+{{SummonEntry| East Noblecourt             | Tavern Patron                  |  4 | Lightning Storm        | Lightning |  8 }}
+{{SummonEntry| East Noblecourt             | Tavern Patron                  |  3 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| East Noblecourt             | Tavern Patron                  |  1 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| East Noblecourt             | Tavern Patron                  |  5 | More Health for All    |           |  7 }}
+{{SummonEntry| East Noblecourt             | Townsperson                    |  3 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| East Noblecourt             | Revello                        |  3 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| East Noblecourt             | Anna                           |  2 | Critical Eye           |           |  9 }}
+{{SummonEntry| East Noblecourt             | Townsperson                    |  2 | Healing Grape (M)      |           |  9 }}
+{{SummonEntry| East Noblecourt             | Luckless Sellsword             |  7 | Full Enfeeblement      |           |  6 }}
+{{SummonEntry| East Noblecourt             | Conrad the Impaler             |  5 | Whirlwind Strike       | Polearms  |  7 }}
+{{SummonEntry| East Noblecourt             | Old Gravekeeper                |  5 | Poison                 |           |  7 }}
+{{SummonEntry| East Noblecourt             | Aspiring Actor                 |  4 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| East Noblecourt             | Melancholy Youth               |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| East Noblecourt             | Boy's Mother                   |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| East Noblecourt             | Townsperson                    |  2 | Blinding Dust          |           |  9 }}
+{{SummonEntry| East Noblecourt             | Jan                            |  8 | Guillotine             | Swords    |  6 }}
+{{SummonEntry| East Noblecourt             | Theracio                       |  3 | Wisdom of the Church   |           |  8 }}
+{{SummonEntry| Northreach                  | Refined Merchant               |  3 | Thrash                 | Polearms  |  8 }}
+{{SummonEntry| Northreach                  | Townsperson                    |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Northreach                  | Ogen                           |  6 | Concoct Panacea        |           |  7 }}
+{{SummonEntry| Northreach                  | Traveling Author               |  2 | Brush Toss             | Daggers   |  9 }}
+{{SummonEntry| Northreach                  | Tavern Patron                  |  6 | Poison Slash           | Daggers   |  7 }}
+{{SummonEntry| Northreach                  | Tavern Patron                  |  7 | Inhibit Defense        |           |  6 }}
+{{SummonEntry| Northreach                  | Impoversihed Man               |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Northreach                  | Traveler                       |  4 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Northreach                  | Miles                          |  4 | Improved Offense       |           |  8 }}
+{{SummonEntry| Northreach                  | Loyal Mercenary                |  6 | Defensive Posture      |           |  7 }}
+{{SummonEntry| Northreach                  | Byron the Noble                |  4 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Northreach                  | Joshua Frostblade              |  5 | Rhaspsody of Love      | Swords    |  7 }}
+{{SummonEntry| Northreach                  | Angela                         |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Northreach                  | Guard                          |  7 | Improved Offense       |           |  6 }}
+{{SummonEntry| Northreach                  | Erudite Graybeard              |  5 | Mental Degradation     |           |  7 }}
+{{SummonEntry| Northreach                  | Ogen                           |  6 | Concoct Panacea        |           |  7 }}
+{{SummonEntry| South Orewell Pass          | Mysterious Knight              |  3 | Stab                   | Polearms  |  8 }}
+{{SummonEntry| South Orewell Pass          | Proud Squire                   |  3 | High Thrust            | Swords    |  8 }}
+{{SummonEntry| Orewell                     | Optimistic Merchant            |  3 | Blinding Dust          |           |  8 }}
+{{SummonEntry| Orewell                     | Villager                       |  8 | Critical Eye           |           |  6 }}
+{{SummonEntry| Orewell                     | Lazy Loafer                    |  5 | Improved Offense       |           |  7 }}
+{{SummonEntry| Orewell                     | Old Man                        |  6 | Fire Storm             | Fire      |  7 }}
+{{SummonEntry| Orewell                     | Affable Merchant               |  2 | Slow Motion            |           |  9 }}
+{{SummonEntry| Orewell                     | Proud Mother                   |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Orewell                     | Villager                       |  6 | Shatter and Smash      | Axes      |  7 }}
+{{SummonEntry| Orewell                     | Oblivious Townsperson          |  3 | Poison Slash           | Daggers   |  8 }}
+{{SummonEntry| Orewell                     | Villager                       |  7 | Blinding Dust          |           |  6 }}
+{{SummonEntry| Quarrycrest Mines           | Miner                          |  4 | Thrash                 | Polearms  |  8 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  4 | Healing Grape          |           |  8 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  4 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  7 | Inhibit Defense        |           |  6 }}
+{{SummonEntry| Quarrycrest Mines           | The Egg Man                    |  1 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  6 | Peerless Strike        | Polearms  |  7 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  2 | Healing Grape          |           |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Inquisitive Lady               |  1 | Sharpen                |           |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Budding Songstress             |  1 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  3 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Quarrycrest Mines           | Tavern Proprietor              |  2 | Full Swing             | Axes      |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  2 | Critical Eye           |           |  9 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  5 | Mighty Blow            | Axes      |  7 }}
+{{SummonEntry| Quarrycrest Mines           | Laborer                        |  2 | Befuddling Balm        |           |  9 }}
+{{SummonEntry| Quarrycrest                 | Odette                         |  5 | Fire Storm             | Fire      |  7 }}
+{{SummonEntry| Quarrycrest                 | Townsperson                    |  3 | Improved Offense       |           |  8 }}
+{{SummonEntry| Quarrycrest                 | Townsperson                    |  2 | Cure Poison            |           |  9 }}
+{{SummonEntry| Quarrycrest                 | Laborer                        |  5 | Cure Poison            |           |  7 }}
+{{SummonEntry| Quarrycrest                 | Elderly Woman                  |  2 | Health for All         |           |  9 }}
+{{SummonEntry| Quarrycrest                 | Townsperson                    |  3 | Slash                  | Daggers   |  8 }}
+{{SummonEntry| Quarrycrest                 | Townsperson                    |  4 | Thrash                 | Polearms  |  8 }}
+{{SummonEntry| Quarrycrest                 | Gendy                          |  2 | Fireball               | Fire      |  9 }}
+{{SummonEntry| Quarrycrest                 | Townsperson                    |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Rippletide                  | Captain Leon                   |  9 | Whirlwind Strike       | Polearms  |  5 }}
+{{SummonEntry| Rippletide                  | Inquisitive Merchant           |  3 | Befuddling Balm        |           |  8 }}
+{{SummonEntry| Rippletide                  | Le Mann                        |  1 | Clenched Fist          | Staves    |  9 }}
+{{SummonEntry| Rippletide                  | Woman from Quaragosa           |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Rippletide                  | Caravan Member                 |  3 | Sweeping Slash         | Swords    |  8 }}
+{{SummonEntry| Rippletide                  | Victorino the Buccaneer's Bane |  5 | Pirates' Bane          | Swords    |  7 }}
+{{SummonEntry| Rippletide                  | Merchant                       |  3 | Befuddling Balm        |           |  8 }}
+{{SummonEntry| Rippletide                  | Olneo                          |  4 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| Rippletide                  | Marina                         |  3 | Arrowstorm             | Bows      |  8 }}
+{{SummonEntry| Rippletide                  | Townsperson                    |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Rippletide                  | Antique Dealer                 |  3 | Head Bash              | Axes      |  8 }}
+{{SummonEntry| Rippletide                  | Beverage Vendor                |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Rippletide                  | Tony                           |  5 | Peerless Strike        | Polearms  |  7 }}
+{{SummonEntry| Rippletide                  | Mathilda                       |  3 | Slumber Arrow          | Bows      |  8 }}
+{{SummonEntry| Rippletide                  | Townsperson                    |  3 | Poison Arrow           | Bows      |  8 }}
+{{SummonEntry| Rippletide                  | Elderly Woman                  | 10 | Mighty Blow            | Polearms  |  4 }}
+{{SummonEntry| Rippletide                  | Tony's Mother                  |  4 | Ice Storm              | Ice       |  8 }}
+{{SummonEntry| Rippletide                  | Exotic Grandma                 |  2 | Healing Grape          |           |  9 }}
+{{SummonEntry| Rippletide                  | Harris                         |  3 | Slash                  | Daggers   |  8 }}
+{{SummonEntry| Undertow Cove               | Paul                           |  5 | Lightning Storm        | Lightning |  7 }}
+{{SummonEntry| Undertow Cove               | Vanessa Hysel                  |  5 | Concoct Explosive      |           |  7 }}
+{{SummonEntry| Refuge Ruins                | Passionate Explorer            |  4 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Lower Riverford             | Merchant                       |  8 | Full Enfeeblement      |           |  6 }}
+{{SummonEntry| Lower Riverford             | Harald                         |  7 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Lower Riverford             | Elderly Woman                  |  7 | Tenebrae Operire       | Dark      |  6 }}
+{{SummonEntry| Lower Riverford             | Kindly Neighbor                |  1 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Lower Riverford             | Meryl                          |  1 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| Riverford                   | Merchant                       |  6 | Poison Slash           | Daggers   |  7 }}
+{{SummonEntry| Riverford                   | Old Man                        |  3 | Panacea                |           |  8 }}
+{{SummonEntry| Riverford                   | Guard                          |  3 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| Riverford                   | Guard                          | 10 | Drunken Blade          | Swords    |  4 }}
+{{SummonEntry| Riverford                   | Servant                        |  5 | Lux Congerere          | Light     |  7 }}
+{{SummonEntry| Riverford                   | Cervantes                      |  3 | Stab                   | Polearms  |  8 }}
+{{SummonEntry| Riverford                   | Reggie                         |  6 | Defensive Posture      |           |  7 }}
+{{SummonEntry| Riverford                   | Passionate Youth               |  4 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Riverford                   | Traveler                       |  3 | Head Bash              | Axes      |  8 }}
+{{SummonEntry| Riverford                   | Guard                          |  6 | Sweeping Slash         | Swords    |  7 }}
+{{SummonEntry| Riverford                   | Guard                          |  7 | Mental Degradation     |           |  6 }}
+{{SummonEntry| S'warkii                    | Villager                       |  1 | Luminescence           | Light     |  9 }}
+{{SummonEntry| S'warkii                    | Village Headman                |  1 | Poison Slash           | Daggers   |  9 }}
+{{SummonEntry| S'warkii                    | Bernhard the Beasthunter       |  4 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| S'warkii                    | Aspiring Hunter                |  1 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| S'warkii                    | Aspiring Merchant              |  1 | Befuddling Balm        |           |  9 }}
+{{SummonEntry| S'warkii                    | Fledgling Hunter               |  2 | Flurry                 | Bows      |  9 }}
+{{SummonEntry| S'warkii                    | Ashlan                         |  3 | Blinding Arrow         | Bows      |  8 }}
+{{SummonEntry| S'warkii                    | Fledgling Hunter               |  1 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| S'warkii                    | Hunter                         |  1 | Panic Arrow            | Bows      |  9 }}
+{{SummonEntry| S'warkii                    | Z'aanta                        |  9 | Flurry                 | Bows      |  5 }}
+{{SummonEntry| S'warkii                    | Genteel Madam                  |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| S'warkii                    | Fledgling Hunter               |  1 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| S'warkii                    | Hunter                         |  1 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| North S'warkii Trail        | Roving Naturalist              |  2 | Lightning Bolt         | Lightning |  9 }}
+{{SummonEntry| North S'warkii Trail        | Nomadic Hunter                 |  1 | Poison                 |           |  9 }}
+{{SummonEntry| East Saintsbridge Traverse  | Ruffian                        |  4 | Sand Toss              |           |  8 }}
+{{SummonEntry| East Saintsbridge Traverse  | Landscape Artist               |  2 | Brush Toss             | Daggers   |  9 }}
+{{SummonEntry| East Saintsbridge Traverse  | River Dweller                  |  2 | Sleepweed              |           |  9 }}
+{{SummonEntry| East Saintsbridge Traverse  | Assiduous Scholar              |  3 | Lightning Bolt         | Lightning |  8 }}
+{{SummonEntry| Farshore                    | Unsavory Man                   |  2 | Poison Slash           | Daggers   |  9 }}
+{{SummonEntry| Saintsbridge                | Bishop Bartolo                 |  6 | Wisdom of the Church   |           |  7 }}
+{{SummonEntry| Saintsbridge Cathedral      | Townsperson                    |  2 | Health for All         |           |  9 }}
+{{SummonEntry| Saintsbridge Cathedral      | Cleric                         |  5 | Gentle Cradle          |           |  7 }}
+{{SummonEntry| Saintsbridge Cathedral      | Kindly Cleric                  |  8 | Lux Congerere          | Light     |  6 }}
+{{SummonEntry| Saintsbridge Cathedral      | Reformed Man                   |  4 | Rag Toss               |           |  8 }}
+{{SummonEntry| Saintsbridge: Upstream      | Knight Ardante                 |  8 | Glacies Claudere       | Ice       |  6 }}
+{{SummonEntry| Saintsbridge: Upstream      | Stubborn Grandma               |  3 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Saintsbridge: Upstream      | Demure Grandma                 |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Saintsbridge: Upstream      | Townsperson                    |  6 | Blinding Arrow         | Bows      |  7 }}
+{{SummonEntry| Saintsbridge: Upstream      | Townsperson                    |  4 | Flurry                 | Bows      |  8 }}
+{{SummonEntry| Saintsbridge: Upstream      | Townsperson                    |  2 | Improved Offense       |           |  9 }}
+{{SummonEntry| Saintsbridge                | Townsperson                    |  2 | Panic Arrow            | Bows      |  9 }}
+{{SummonEntry| Saintsbridge                | Old Man                        |  7 | Tenebrae Operire       | Dark      |  6 }}
+{{SummonEntry| Saintsbridge                | Worrywart                      |  4 | Inhibit Defense        |           |  8 }}
+{{SummonEntry| Saintsbridge                | River Dweller                  |  2 | Sleepweed              |           |  9 }}
+{{SummonEntry| Saintsbridge                | Baker                          |  2 | Fresh from the Oven    |           |  9 }}
+{{SummonEntry| Saintsbridge                | Erstwhile Sellsword            |  5 | Sweeping Slash         | Swords    |  7 }}
+{{SummonEntry| Saintsbridge                | Townsperson                    |  3 | Head Bash              | Axes      |  8 }}
+{{SummonEntry| Stillsnow                   | Villager                       |  1 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| Stillsnow                   | Alaic                          |  6 | Panic Slash            | Daggers   |  7 }}
+{{SummonEntry| Stillsnow                   | Cleric                         |  2 | Prayer                 |           |  9 }}
+{{SummonEntry| Stillsnow                   | Frostlands Farmer              |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Stillsnow                   | Villager                       |  2 | Flurry                 | Bows      |  9 }}
+{{SummonEntry| Stillsnow                   | Arianna                        |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Stillsnow                   | Moneylender                    |  4 | Speed Enhancement      |           |  8 }}
+{{SummonEntry| Stillsnow                   | Ingenious Inventor             |  1 | Fireball               | Fire      |  9 }}
+{{SummonEntry| Stillsnow                   | Reformed Father                |  2 | Dagger Storm           | Daggers   |  9 }}
+{{SummonEntry| Stillsnow                   | Wide-eyed Girl                 |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Stillsnow                   | Veteran Mercenary              |  5 | Peerless Strike        | Polearms  |  7 }}
+{{SummonEntry| Stillsnow                   | Townsperson                    |  3 | Slow Motion            |           |  8 }}
+{{SummonEntry| Stillsnow                   | Carefree Man                   |  3 | Mental Augmentation    |           |  8 }}
+{{SummonEntry| Stillsnow                   | Oren                           |  3 | Speed Enhancement      |           |  8 }}
+{{SummonEntry| Stillsnow                   | Miles                          |  4 | Improved Offense       |           |  8 }}
+{{SummonEntry| Stillsnow                   | Dancer                         |  2 | Poision Slash          | Daggers   |  9 }}
+{{SummonEntry| Stillsnow                   | Old Man                        |  6 | Fire Storm             | Fire      |  7 }}
+{{SummonEntry| Trail to the Whitewood      | Traveler                       |  2 | Blinding Dust          |           |  9 }}
+{{SummonEntry| Stonegard Heights           | Bookbinder                     |  3 | Slash                  | Daggers   |  8 }}
+{{SummonEntry| Stonegard Heights           | Exotic Grandma                 |  2 | Healing Grape          |           |  9 }}
+{{SummonEntry| Stonegard Heights           | Nathan                         |  3 | Sweep                  | Swords    |  8 }}
+{{SummonEntry| Stonegard Heights           | Townsperson                    |  5 | Sleepweed              |           |  7 }}
+{{SummonEntry| Stonegard Heights           | Nathan's Bodyguard             |  5 | Sweeping Slash         | Swords    |  7 }}
+{{SummonEntry| Stonegard Heights           | Noelle                         |  1 | Improved Offense       |           |  9 }}
+{{SummonEntry| Stonegard Heights           | Eren                           |  3 | Cure Silence           |           |  8 }}
+{{SummonEntry| Stonegard Heights           | Inquiring Youth                |  3 | Ice Storm              | Ice       |  8 }}
+{{SummonEntry| Stonegard Heights           | Hunter                         |  6 | Flurry                 | Bows      |  7 }}
+{{SummonEntry| Stonegard Heights           | Townsperson                    |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Stonegard Heights           | Townsperson                    |  3 | Inhibit Offense        |           |  8 }}
+{{SummonEntry| Stonegard Heights           | Townsperson                    |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Stonegard Valleys           | Apothecary                     |  4 | Panacea                |           |  8 }}
+{{SummonEntry| Stonegard Valleys           | Natalia                        |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Stonegard Valleys           | Arianna                        |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Stonegard Valleys           | Oren                           |  3 | Speed Enhancement      |           |  8 }}
+{{SummonEntry| Stonegard Valleys           | Papermaker                     |  3 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Stonegard Valleys           | Townsperson                    |  5 | Critical Eye           |           |  7 }}
+{{SummonEntry| Stonegard Valleys           | Townsperson                    |  2 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| Stonegard Valleys           | Patrician Youth                |  4 | Sculpture Toss         | Daggers   |  8 }}
+{{SummonEntry| Stonegard Valleys           | Cleric                         |  8 | Focus Spirit           |           |  6 }}
+{{SummonEntry| Stonegard Valleys           | Rumormonger                    |  2 | Slice                  | Swords    |  9 }}
+{{SummonEntry| Stonegard Valleys           | Archibold the Crusher          |  6 | Champion's Cleave      | Axes      |  7 }}
+{{SummonEntry| Stonegard Valleys           | Ruffian                        |  4 | Brain Bash             | Axes      |  8 }}
+{{SummonEntry| Stonegard Valleys           | Layla                          |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Stonegard Valleys           | Ruffian Lackey                 |  3 | Blinding Slash         | Daggers   |  8 }}
+{{SummonEntry| Stonegard Valleys           | Townsperson                    |  3 | Befuddling Balm        |           |  8 }}
+{{SummonEntry| Stonegard                   | Bindery Employee               |  3 | Slice                  | Swords    |  8 }}
+{{SummonEntry| Stonegard                   | Townsperson                    |  2 | Improved Offense       |           |  9 }}
+{{SummonEntry| Stonegard                   | Neighborly Grandpa             |  2 | Inspiriting Plum       |           |  9 }}
+{{SummonEntry| Stonegard                   | Veteran Brigand                |  3 | Poison Slash           | Daggers   |  8 }}
+{{SummonEntry| Stonegard                   | Russell                        |  6 | Ignis Ardere           | Fire      |  7 }}
+{{SummonEntry| Stonegard                   | Dominic                        |  5 | Ignis Ardere           | Fire      |  6 }}
+{{SummonEntry| Stonegard                   | Townsperson                    |  4 | Awaken                 |           |  8 }}
+{{SummonEntry| Stonegard                   | Neighborly Grandma             |  1 | Repeated Strike        | Polearms  |  9 }}
+{{SummonEntry| Stonegard                   | Townsperson                    |  3 | Deep Breath            |           |  8 }}
+{{SummonEntry| Stonegard                   | True Believer                  |  1 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| Sunshade Tavern             | Faltering Youth                |  2 | Head Bash              | Axes      |  9 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Patron                  |  1 | Black Magic            | Dark      |  9 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Patron                  |  1 | Sweep                  | Swords    |  9 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Wench                   |  2 | Blinding Arrow         | Bows      |  9 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Patron                  |  1 | Healing Grape (M)      |           |  9 }}
+{{SummonEntry| Sunshade Tavern             | Bryan                          |  4 | Fire Storm             | Fire      |  8 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Patron                  |  1 | Thrash                 | Polearms  |  9 }}
+{{SummonEntry| Sunshade Tavern             | Tavern Proprietor              |  1 | Mental Augmentation    |           |  9 }}
+{{SummonEntry| Sunshade Tavern             | Hired Barkeep                  |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Sunshade                    | Ne'er-do-well                  |  4 | Sleepweed              |           |  8 }}
+{{SummonEntry| Sunshade                    | Star Dancer                    |  5 | Spirited Dance         |           |  7 }}
+{{SummonEntry| Sunshade                    | Portly Merchant                |  1 | Exotic Spices          |           |  9 }}
+{{SummonEntry| Sunshade                    | Master's Lackey                |  1 | Blinding Dust          |           |  9 }}
+{{SummonEntry| Sunshade                    | Master's Lackey                |  1 | Poison                 |           |  9 }}
+{{SummonEntry| Sunshade                    | Imposing Bouncer               |  5 | Head Bash              | Axes      |  7 }}
+{{SummonEntry| Sunshade                    | Elderly Woman                  |  1 | Pointed Shot           | Bows      |  9 }}
+{{SummonEntry| Sunshade                    | Amnesiac Girl                  |  2 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Sunshade                    | Well-heeled Gentleman          |  1 | Slash                  | Daggers   |  9 }}
+{{SummonEntry| Sunshade                    | Old Man                        |  2 | Thrash                 | Polearms  |  9 }}
+{{SummonEntry| Sunshade                    | Industrious Housewife          |  1 | Panic Slash            | Daggers   |  9 }}
+{{SummonEntry| Sunshade                    | Pensive Mother                 |  1 | Thrash                 | Polearms  |  9 }}
+{{SummonEntry| Sunshade                    | Master's Lackey                |  1 | Blinding Dust          |           |  9 }}
+{{SummonEntry| Sunshade                    | Blue Dancer                    |  3 | Panic Slash            | Daggers   |  8 }}
+{{SummonEntry| Sunshade                    | Sand Man                       |  1 | Ali's Baked Goods      |           |  9 }}
+{{SummonEntry| Victors Hollow: The Arena   | Arena Attendant                |  7 | Slice                  | Swords    |  6 }}
+{{SummonEntry| Victors Hollow: The Arena   | Monster Hunter                 |  6 | Demon Blade            | Swords    |  7 }}
+{{SummonEntry| Victors Hollow: The Arena   | Successful Gambler             |  4 | Healing Grape (M)      |           |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Ashlan                         |  3 | Blinding Arrow         | Bows      |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Old Man                        |  4 | Blinding Dust          |           |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Townsperson                    |  2 | Pummel                 | Staves    |  9 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  4 | Dagger Storm           | Daggers   |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  7 | Befuddling Balm        |           |  6 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  3 | Blinding Slash         | Daggers   |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  4 | Exploit Weakness       | Polearms  |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  4 | Healing Grape          |           |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Cecily                         |  3 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Ned                            |  6 | Cleave in Two          | Axes      |  7 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Estadas                        |  3 | Slice                  | Swords    |  8 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Spectator                      |  5 | Head Bash              | Axes      |  7 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Mont d'Or                      |  8 | Hya! Hya! Hya!         | Polearms  |  6 }}
+{{SummonEntry| Victors Hollow: Arena Gate  | Gossipy Townsperson            |  3 | Critical Eye           |           |  8 }}
+{{SummonEntry| Victors Hollow              | Merchant                       |  6 | High Thrust            | Swords    |  7 }}
+{{SummonEntry| Victors Hollow              | Laconic Father                 |  5 | Head Bash              | Axes      |  7 }}
+{{SummonEntry| Victors Hollow              | Antique Dealer                 |  3 | Steel Defenses         |           |  8 }}
+{{SummonEntry| Victors Hollow              | Alaic                          |  6 | Panic Slash            | Daggers   |  7 }}
+{{SummonEntry| Victors Hollow              | Hearty Merchant                |  3 | Peerless Strike        | Polearms  |  8 }}
+{{SummonEntry| Victors Hollow              | Townsperson                    |  3 | Inhibit Defense        |           |  8 }}
+{{SummonEntry| Victors Hollow              | Townsperson                    |  3 | Head Bash              | Axes      |  8 }}
+{{SummonEntry| Victors Hollow              | Doting Aunt                    |  2 | Flurry                 | Bows      |  9 }}
+{{SummonEntry| Victors Hollow              | Amnesiac                       |  7 | Improved Offense       |           |  6 }}
+{{SummonEntry| Victors Hollow              | Resilent Gladiator             |  9 | Shatter and Smash      | Axes      |  5 }}
+{{SummonEntry| Victors Hollow              | Flower Girl                    |  2 | Bouquet Toss           |           |  9 }}
+{{SummonEntry| Victors Hollow              | Flower-loving Widow            |  2 | Healing Grape          |           |  9 }}
+{{SummonEntry| Victors Hollow              | Ellie                          |  2 | Encourage              |           |  9 }}
+{{SummonEntry| Wellspring                  | Merchant                       |  2 | Restore Health         |           |  9 }}
+{{SummonEntry| Wellspring                  | Merchant                       |  4 | Slow Motion            |           |  8 }}
+{{SummonEntry| Wellspring                  | Merchant                       |  5 | Slumber Arrow          | Bows      |  7 }}
+{{SummonEntry| Wellspring                  | Townsperson                    |  2 | Steel Defenses         |           |  9 }}
+{{SummonEntry| Wellspring                  | Tavern Patron                  |  4 | Critical Eye           |           |  8 }}
+{{SummonEntry| Wellspring                  | Traveling Merchant             |  3 | Shady Substance        |           |  8 }}
+{{SummonEntry| Wellspring                  | Guard                          |  4 | High Thrust            | Swords    |  8 }}
+{{SummonEntry| Wellspring                  | Bale                           |  8 | Full Swing             | Axes      |  6 }}
+{{SummonEntry| Wellspring                  | Erhardt                        |  8 | Cross Strike           | Swords    |  6 }}
+{{SummonEntry| Wellspring                  | Guard                          |  6 | Improved Offense       |           |  7 }}
+{{SummonEntry| Wellspring                  | Guard                          |  5 | Inhibit Defense        |           |  7 }}
+{{SummonEntry| Wellspring                  | Guard                          |  4 | Head Bash              | Axes      |  8 }}
+{{SummonEntry| Wellspring                  | Old Man                        |  3 | Ice Storm              | Ice       |  8 }}
+{{SummonEntry| Wellspring                  | Satisfied Merchant             |  4 | Questionable Substance |           |  8 }}
+{{SummonEntry| Wellspring                  | Sweet Tooth                    |  7 | Panic Slash            | Daggers   |  6 }}
+{{SummonEntry| Wellspring                  | Staid Soldier                  |  4 | Repeated Strike        | Polearms  |  8 }}
+{{SummonEntry| Wellspring                  | Injured Scout                  |  1 | Too wounded to move…   |           |  9 }}
+{{SummonEntry| Wellspring                  | Townsperson                    |  4 | Ice Storm              | Ice       |  8 }}
+{{SummonEntry| Wellspring                  | Bale                           |  8 | Full Swing             | Axes      |  6 }}
+{{SummonEntry| Western Wispermill Flats    | Carefree Shepherd              |  2 | Stab                   | Polearms  |  9 }}
+{{SummonEntry| Wispermill                  | Lianna                         |  3 | Restore Health         |           |  8 }}
+{{SummonEntry| Wispermill                  | Eliza                          |  8 | Hearty Encouragement   |           |  6 }}
+{{SummonEntry| Wispermill                  | Nighteye                       |  8 | Speed Enhancement      |           |  6 }}
+{{SummonEntry| Wispermill                  | Slender Farmer                 |  2 | Exploit Weakness       | Polearms  |  9 }}
+{{SummonEntry| Wispermill                  | Villager                       |  5 | Gentle Cradle          |           |  7 }}
+{{SummonEntry| Wispermill                  | Passionate Farmer              |  7 | Full Recover           |           |  6 }}
+{{SummonEntry| Wispermill                  | Villager                       |  8 | Peerless Strike        | Polearms  |  6 }}
+{{SummonEntry| Wispermill                  | Rumormonger                    |  4 | Panic Slash            | Daggers   |  8 }}
+{{SummonEntry| Wispermill                  | Troubled Villager              |  6 | Improved Offense       |           |  7 }}
+{{SummonEntry| Wispermill                  | Villager                       |  7 | Sweeping Slash         | Swords    |  6 }}
+{{SummonEntry| Wispermill                  | Theracio                       |  3 | Wisdom of the Church   |           |  8 }}
+{{SummonEntry| Wispermill                  | Elderly Woman                  |  9 | Mental Augmentation    |           |  5 }}

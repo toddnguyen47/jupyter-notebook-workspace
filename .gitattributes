@@ -1,0 +1,12 @@
+* txt=auto eol=lf
+
+# Text Files
+*.ipynb txt
+*.py txt
+*.txt txt
+
+# Binary files
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.pdf binary
